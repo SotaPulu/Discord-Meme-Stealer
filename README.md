@@ -6,6 +6,7 @@
 * Works (Sometimes)
 * Supports multiple source and destination channels
 * (semi) easy to use config
+
 #Usage
 1. Install Node.js
 2. Install Discord.js-selfbot-v13 using NPM (npm i discord.js-selfbot-V13)
