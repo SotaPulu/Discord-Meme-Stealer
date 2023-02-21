@@ -1,0 +1,17 @@
+{
+  "name": "operation-meme-stealer",
+  "version": "1.0.0",
+  "description": "Whipity Whine Your Meme Is Now MINE!!1!1!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "SotaPulu",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.9.20"
+  }
+}
