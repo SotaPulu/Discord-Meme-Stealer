@@ -3,11 +3,12 @@
 
 # Features
 * Steals memes
-* Works (Sometimes)
+* Works 100% of the time 35% of the time
 * Supports multiple source and destination channels
-* (semi) easy to use config
+* Held together by nested if-else statements
+* Has somehow not gotten me banned
 
-# Usage
+# Usage (if you want to for some reason)
 1. Install Node.js
 2. Install Discord.js-selfbot-v13 using NPM (npm i discord.js-selfbot-V13)
 3. Setup config.json file
